@@ -125,4 +125,5 @@ MIT License. See `LICENSE` file for details.
 
 [securepassgen-advanced on PyPI](https://pypi.org/project/securepassgen-advanced/)
 ```
-Thanks 😊  more comming
+Thanks 😊
+
